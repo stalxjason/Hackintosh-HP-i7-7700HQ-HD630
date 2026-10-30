@@ -1,0 +1,5 @@
+﻿EFI-backup.tar.gz
+.DS_Store
+*.bak
+*.bak-*
+*.bak_*
